@@ -31,14 +31,12 @@ Ordered lists
 Tables
 
 Poor Man's Lodgings in Norfolk (Mayhew, 1843)
-
 Location        Dossing Cribs   Lodging Houses   Beds Available
 -------------------------------------------------------------
 Bury St Edmund's    5              8               128
 Thetford            3              6                36
 Attleboro'          3              5                20
 Wymondham           1             11                22
-
 A quotation about books
 
 This paragraph introduces a quotation:
