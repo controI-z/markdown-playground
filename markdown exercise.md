@@ -81,4 +81,6 @@ Images
 
 This paragraph introduces an image:
 
-The fifth panel of page 6, from Captain America #193 (January, 1976), edited, written, and drawn by Jack Kirby.
+![The fifth panel of page 6, from Captain America #193 (January, 1976), edited, written, and drawn by Jack Kirby.](https://www.example.com/images/example.jpg)
+
+
