@@ -32,7 +32,7 @@ Tables
 
 Poor Man's Lodgings in Norfolk (Mayhew, 1843)
 
-|   | | Dossing Cribs or Lodging Houses |	| Beds |	| Needys or Nightly Lodgers |
+| Dossing Cribs or Lodging Houses |	| Beds |	| Needys or Nightly Lodgers |
 | --- | | --- | |--- | | --- |
 | Bury St Edmund's |	| 5 |	| 8 |	| 128 |
 | Thetford |	| 3 |	| 6 |	| 36 |
