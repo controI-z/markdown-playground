@@ -42,7 +42,7 @@ A quotation about books
 
 This paragraph introduces a quotation:
 
-> The half-brained creature to whom books are other than living things may see with the eyes of a bat and draw with the fingers of a mole his dullard’s distinction between books and life: those who live the fuller life of a higher animal than he know that books are to poets as much part of that life as pictures are to painters or as music is to musicians, dead matter though they may be to the spiritually still-born children of dirt and dullness who find it possible and natural to live while dead in heart and brain. Marlowe and Shakespeare, Aeschylus and Sappho, do not for us live only on the dusty shelves of libraries.
+> The half-brained creature to whom books are other than living things may see with the eyes of a bat and draw with the fingers of a mole his dullard’s distinction between books and life: those who live the fuller life of a higher animal than he know that books are to poets as much part of that life as pictures are to painters or as music is to musicians, dead matter though they may be to the spiritually still-born children of dirt and dullness who find it possible and natural to live while dead in heart and brain. Marlowe and Shakespeare, Aeschylus and Sappho, do not for us live only on the dusty shelves of libraries. <br>
 > — Algernon Charles Swinburne, “Dedicatory Epistle,” Poems, volume 1 (1904).
 
 Some poetry, with line breaks
