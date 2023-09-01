@@ -16,10 +16,10 @@ Sed fermentum dui vel enim consectetur malesuada. Sed a mi felis. Curabitur sit 
 
 Bullet lists
 
--John
--George
--Paul
--Ringo
+-John<br>
+-George<br>
+-Paul<br>
+-Ringo<br>
 
 Ordered lists
 
