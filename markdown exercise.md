@@ -64,13 +64,13 @@ The paragraphs below include computer code, both “inline” code, in which the
 
 Here is a block of some Python code:
 
-```python
+```
 def times_table(n):
     column_width = len(str(n * n)) + 1 for y in range(1, n + 1):
     for x in range(1, n + 1):
         print(x * y, end=' ' * (column_width - len(str(x * y))))
     print('')
-
+```
 The code was borrowed from https://www.pythonfromtheverybeginning.com/_files/ugd/c52a80_c91162eff1034675a30a9e2b61770df5.pdf.
 
 Links
