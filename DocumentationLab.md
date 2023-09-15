@@ -139,7 +139,9 @@ use column a
 ## Alex's TEI guidelines
 1. **What tag should be used to indicate deleted text?**
 
+~~~
 <del>
+~~~
 
 2. **When should `<damage>` be used instead of `<gap>`?**
 
