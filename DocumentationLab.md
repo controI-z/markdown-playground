@@ -100,6 +100,7 @@ use a semicolon
 
 [location](https://collectionbuilder.github.io/cb-docs/docs/metadata/formatting/#formatting-your-metadata
 )
+
 13. **Find the example code for including a PDF from your collection (with a caption) on one of your interpretive pages (hint: start with the "Feature Includes" page)**
 
 ~~~
@@ -110,15 +111,40 @@ use a semicolon
 
 ## SUCHO Metadata
 1. **Which metadata fields are always required for a SUCHO item?**
+
+* columns a-e
+* columns j,k,l,o
+
 2. **What character separates multiple values in Column E and Column F?**
+
+semicolon
+
 3. **Format the name "Yevhen Federovych Stankovych" according to the content guidelines for Creator**
+
+Yevhen, Federovych Stankovych
+
 4. **What is the cardinality of the field "date?""**
-5. **What would be the correctly formatted value for the field "Host Location" for an item held by an institution in Lviv, the capital of Ukraine's Lviv Oblast?** 
+
+high cardinality due to the large number of possible dates that include/exclude month and day
+
+5. **What would be the correctly formatted value for the field "Host Location" for an item held by an institution in Lviv, the capital of Ukraine's Lviv Oblast?**
+
+Lviv(Q360360)
+
 6. **If you wanted to indicate that you were working on a row in our metadata spreadsheet, how would you do that?**
+
+use column a
+
+
 ## Alex's TEI guidelines
 1. **What tag should be used to indicate deleted text?**
 
+<del>
+
 2. **When should `<damage>` be used instead of `<gap>`?**
+
+damage is used when there is damage but the text can still be read when confidence.
+gap should be used when the text is completely illegible beyond recovery
 
 3. **How would you indicate that a word is repeated in the following code block?**
 ```xml
@@ -126,5 +152,9 @@ use a semicolon
 The quick brown fox jumped over the the lazy dog.
 </p>
 ```
+<sic rend="repeated word"> the </sic>
 
 4. **Which tag is used to enclose an entire list of non-book items and which tag is used to enclose a list of books? Which tag should be used to enclose an individual non-book item, and which tag should enclose an individual book item?**
+use <list> for any non-book lists and <item> for any non book items.
+use <listBibl> for any book lists and <bibl> for any book items
+use <list> and <listBibl> as necessary for books/non-books (it's important to keep these two seperate for good data extraction)
