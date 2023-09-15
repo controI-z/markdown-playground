@@ -72,11 +72,42 @@ ex
 subjects-fields: subject;creator
 ~~~
 
+[location](https://collectionbuilder.github.io/cb-docs/docs/theme/subjects/#subjects-page)
+
 9. **What three items (keys) are in the YAML front matter of any of the markdown page files?**
+
+layout
+title
+permalink
+
+[location](https://collectionbuilder.github.io/cb-docs/docs/pages/basics/#yaml-front-matter)
+
 10. **When filling in "metadata: " with the name of your metadata sheet on your "\_config.yml" file, should you include the file extension?**
+
+no
+
+[location](https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/csv-walkthrough/#10-configure-your-site-settings-in-the-_configyml-file)
+
 11. **Which file controls the display options for most of your website?**
+
+_config.yml
+
+[location](https://collectionbuilder.github.io/cb-docs/docs/config/site/#site-settings)
+
 12. **How can you separate multiple values in a single field in your metadata file?**
+
+use a semicolon
+
+[location](https://collectionbuilder.github.io/cb-docs/docs/metadata/formatting/#formatting-your-metadata
+)
 13. **Find the example code for including a PDF from your collection (with a caption) on one of your interpretive pages (hint: start with the "Feature Includes" page)**
+
+~~~
+{% include feature/pdf.html objectid="demo_002" width="50" caption="a pdf from the collection" %}
+~~~
+
+[location](https://collectionbuilder.github.io/collectionbuilder-gh/feature_options.html)
+
 ## SUCHO Metadata
 1. **Which metadata fields are always required for a SUCHO item?**
 2. **What character separates multiple values in Column E and Column F?**
