@@ -42,14 +42,14 @@ Answer the following questions using the documentation above. Turn in your compl
 
 5. **If you wanted a metadata field called "archive" in your metadata field to display as "Holding Institution" in the metadata section of each item's page, what file would you edit? (Bonus point: what columns of that file would you edit and what text would you input in each column?)** 
 \
-_data/config-metadata.csv 
 \
+_data/config-metadata.csv 
 
 ~~~ 
   field: archive
   display_name: Holding institution
 ~~~
-\
+
 
 [location](https://collectionbuilder.github.io/cb-docs/docs/customization/config-metadata/#metadata--item-page-configuration-config-metadatacsv)  
 
