@@ -31,7 +31,7 @@ _data/config-nav.csv
 3. **What metadata fields are required to support the map visualization in CollectionBuilder-GH metadata?**
 latitude & longitude
     
-     [location](https://collectionbuilder.github.io/cb-docs/docs/metadata/cdm_metadata/#fields-required-for-visualizations)  
+[location](https://collectionbuilder.github.io/cb-docs/docs/metadata/cdm_metadata/#fields-required-for-visualizations)  
 
 4. **What four columns are included in the config-metadata.csv file?**
 * Field
@@ -39,7 +39,7 @@ latitude & longitude
 * browse_link
 * external_link
 
-  [location](https://collectionbuilder.github.io/cb-docs/docs/customization/config-metadata/#metadata--item-page-configuration-config-metadatacsv)  
+[location](https://collectionbuilder.github.io/cb-docs/docs/customization/config-metadata/#metadata--item-page-configuration-config-metadatacsv)  
 
 5. **If you wanted a metadata field called "archive" in your metadata field to display as "Holding Institution" in the metadata section of each item's page, what file would you edit? (Bonus point: what columns of that file would you edit and what text would you input in each column?)**\
 _data/config-metadata.csv
