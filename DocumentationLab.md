@@ -18,8 +18,10 @@ Answer the following questions using the documentation above. Turn in your compl
     * objectid
     * filename
     * title
-    * format
-    [location](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/#required-fields-for-collectionbuilder-gh)
+    * format  
+
+    [location](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/#required-fields-for-collectionbuilder-gh)  
+    
 2. **What file do you need to edit to add a new page to your navigation bar?**
     _data/config-nav.csv
     [location](https://collectionbuilder.github.io/cb-docs/docs/customization/config-nav/#navigation-bar-configuration-config-navcsv)
