@@ -154,7 +154,9 @@ gap should be used when the text is completely illegible beyond recovery
 The quick brown fox jumped over the the lazy dog.
 </p>
 ```
+~~~
 <sic rend="repeated word"> the </sic>
+~~~
 
 4. **Which tag is used to enclose an entire list of non-book items and which tag is used to enclose a list of books? Which tag should be used to enclose an individual non-book item, and which tag should enclose an individual book item?**
 use <list> for any non-book lists and <item> for any non book items.
