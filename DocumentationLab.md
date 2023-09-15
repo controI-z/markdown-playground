@@ -66,6 +66,7 @@ sort_name in config-browse.csv
 8. **How do you change which metadata fields contribute values to the "Subjects" visualization page?**
 
 subjects-fields
+
 ex 
 ~~~
 subjects-fields: subject;creator
