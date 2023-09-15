@@ -15,33 +15,33 @@ Answer the following questions using the documentation above. Turn in your compl
 ***For all answers in this section, give the answer and the URL of the page where you found it.***
 
 1. **Which fields are required for *all items* in CollectionBuilder-GH metadata?**\ 
-* objectid\
-* filename\
-* title\
-* format\
+* objectid
+* filename
+* title
+* format
 
 [location](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/#required-fields-for-collectionbuilder-gh)  
 
-2. **What file do you need to edit to add a new page to your navigation bar?**\
+2. **What file do you need to edit to add a new page to your navigation bar?**
 
-    _data/config-nav.csv\
+    _data/config-nav.csv
 
     [location](https://collectionbuilder.github.io/cb-docs/docs/pages/add_page/#add-a-new-page-to-the-nav)  
 
-3. **What metadata fields are required to support the map visualization in CollectionBuilder-GH metadata?**\
+3. **What metadata fields are required to support the map visualization in CollectionBuilder-GH metadata?**
   latitude & longitude
     
      [location](https://collectionbuilder.github.io/cb-docs/docs/metadata/cdm_metadata/#fields-required-for-visualizations)  
 
-4. **What four columns are included in the config-metadata.csv file?**\
-  * Field\ 
-  * display_name\
-  * browse_link\
-  * external_link\
+4. **What four columns are included in the config-metadata.csv file?**
+  * Field
+  * display_name
+  * browse_link
+  * external_link
   [location](https://collectionbuilder.github.io/cb-docs/docs/customization/config-metadata/#metadata--item-page-configuration-config-metadatacsv)  
 
 5. **If you wanted a metadata field called "archive" in your metadata field to display as "Holding Institution" in the metadata section of each item's page, what file would you edit? (Bonus point: what columns of that file would you edit and what text would you input in each column?)**\
-_data/config-metadata.csv\
+_data/config-metadata.csv
 
 ~~~ 
   field: archive
