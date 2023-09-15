@@ -160,6 +160,6 @@ The quick brown fox jumped over the the lazy dog.
 
 4. **Which tag is used to enclose an entire list of non-book items and which tag is used to enclose a list of books? Which tag should be used to enclose an individual non-book item, and which tag should enclose an individual book item?**
 
-use <list> for any non-book lists and <item> for any non book items.
-use <listBibl> for any book lists and <bibl> for any book items
+use <list> for any non-book lists and <item> for any non book items.\
+use <listBibl> for any book lists and <bibl> for any book items\
 use <list> and <listBibl> as necessary for books/non-books (it's important to keep these two seperate for good data extraction)
