@@ -52,11 +52,17 @@ _data/config-metadata.csv
 [location](https://collectionbuilder.github.io/cb-docs/docs/customization/config-metadata/#metadata--item-page-configuration-config-metadatacsv)  
 
 6. **How should the date September 8, 2023 be formatted so that the timeline visualization works?**
+
 2023-9-8
+
 [location](https://collectionbuilder.github.io/cb-docs/docs/metadata/cdm_metadata/#date)
+
 7. **What column in what file allows you determine whether a field can be used for sorting on the Browse page of your website?**
+
 sort_name in config-browse.csv
+
 [location](https://collectionbuilder.github.io/cb-docs/docs/customization/config-browse/#sort_name)
+
 8. **How do you change which metadata fields contribute values to the "Subjects" visualization page?**
 9. **What three items (keys) are in the YAML front matter of any of the markdown page files?**
 10. **When filling in "metadata: " with the name of your metadata sheet on your "\_config.yml" file, should you include the file extension?**
