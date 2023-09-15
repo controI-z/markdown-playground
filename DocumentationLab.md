@@ -41,16 +41,16 @@ Answer the following questions using the documentation above. Turn in your compl
   [location](https://collectionbuilder.github.io/cb-docs/docs/customization/config-metadata/#metadata--item-page-configuration-config-metadatacsv)  
 
 5. **If you wanted a metadata field called "archive" in your metadata field to display as "Holding Institution" in the metadata section of each item's page, what file would you edit? (Bonus point: what columns of that file would you edit and what text would you input in each column?)** 
-<br>
-<br>
-_data/config-metadata.csv
-<br>
-  ```
+\
+_data/config-metadata.csv 
+\
+
+~~~ 
   field: archive
   display_name: Holding institution
+~~~
+\
 
-  ```
-<br>
 [location](https://collectionbuilder.github.io/cb-docs/docs/customization/config-metadata/#metadata--item-page-configuration-config-metadatacsv)  
 
 6. **How should the date September 8, 2023 be formatted so that the timeline visualization works?** 
