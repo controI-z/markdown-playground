@@ -64,6 +64,13 @@ sort_name in config-browse.csv
 [location](https://collectionbuilder.github.io/cb-docs/docs/customization/config-browse/#sort_name)
 
 8. **How do you change which metadata fields contribute values to the "Subjects" visualization page?**
+
+subjects-fields
+ex 
+~~~
+subjects-fields: subject;creator
+~~~
+
 9. **What three items (keys) are in the YAML front matter of any of the markdown page files?**
 10. **When filling in "metadata: " with the name of your metadata sheet on your "\_config.yml" file, should you include the file extension?**
 11. **Which file controls the display options for most of your website?**
