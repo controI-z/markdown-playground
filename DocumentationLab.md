@@ -21,10 +21,13 @@ Answer the following questions using the documentation above. Turn in your compl
     * format  
 
     [location](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/#required-fields-for-collectionbuilder-gh)  
+
+2. **What file do you need to edit to add a new page to your navigation bar?**  
+
+    _data/config-nav.csv  
+
+    [location](https://collectionbuilder.github.io/cb-docs/docs/customization/config-nav/#navigation-bar-configuration-config-navcsv)  
     
-2. **What file do you need to edit to add a new page to your navigation bar?**
-    _data/config-nav.csv
-    [location](https://collectionbuilder.github.io/cb-docs/docs/customization/config-nav/#navigation-bar-configuration-config-navcsv)
 3. **What metadata fields are required to support the map visualization in CollectionBuilder-GH metadata?** 
 4. **What four columns are included in the config-metadata.csv file?**
 5. **If you wanted a metadata field called "archive" in your metadata field to display as "Holding Institution" in the metadata section of each item's page, what file would you edit? (Bonus point: what columns of that file would you edit and what text would you input in each column?)**
