@@ -14,11 +14,12 @@ Answer the following questions using the documentation above. Turn in your compl
 ## Collection Builder
 ***For all answers in this section, give the answer and the URL of the page where you found it.***
 
-1. **Which fields are required for *all items* in CollectionBuilder-GH metadata?** 
-    * objectid
-    * filename
-    * title
-    * format  
+1. **Which fields are required for *all items* in CollectionBuilder-GH metadata?**\ 
+* objectid\
+* filename\
+* title\
+* format\
+
 
     [location](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/#required-fields-for-collectionbuilder-gh)  
 
